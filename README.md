@@ -1,6 +1,6 @@
-# jmtannus.github.io
 
-- # Título e Imagem de capa
+- # Título e Imagem de Capa
+  
   <h1 align="left"> Depois do Café eu me Expresso </h1>
 ![ImagemDeCapa](https://github.com/jmtannus/jmtannus.github.io/assets/61756665/6e367bd0-3188-4678-bef5-84aecabef3f3)
 
@@ -13,14 +13,14 @@ Assinar no LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?en
 
 - # Índice
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título e Imagem de Capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
@@ -37,6 +37,8 @@ Assinar no LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?en
  <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
   </h4>
+  
+</br>
 
 - # Funcionalidades e Demonstração da Aplicação
     :hammer:
@@ -44,19 +46,24 @@ Assinar no LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?en
     - `Funcionalidade 2`: descrição da funcionalidade 2
     - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
     - `Funcionalidade 3`: descrição da funcionalidade 3
-    
+ 
+</br>
+   
 - # Acesso ao Projeto
 - 
-- # Tecnologias utilizadas
+- # Tecnologias Utilizadas
 - 
 - # Pessoas Contribuidoras
 - 
 - # Pessoas Desenvolvedoras do Projeto
-  
+-   
 - # Autores
 
 | [<img src="https://avatars.githubusercontent.com/u/61756665?s=400&u=6501bae0036f279a1d7fef735d86c8742d53b19e&v=4" width=115><br><sub>Janaina Madeira T Teixeira</sub>](https://github.com/jmtannus) |
 | :---: |
 
 - # Licença
+-   
+- # Conclusão
+- 
 
