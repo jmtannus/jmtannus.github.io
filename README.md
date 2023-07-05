@@ -3,7 +3,9 @@
 - # Título e Imagem de capa
   <h1 align="left"> Depois do Café eu me Expresso </h1>
 ![ImagemDeCapa](https://github.com/jmtannus/jmtannus.github.io/assets/61756665/6e367bd0-3188-4678-bef5-84aecabef3f3)
-  
+
+Assinar no LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7065053956971839488
+
 - # Badges
 
    ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
