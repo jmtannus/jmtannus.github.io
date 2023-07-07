@@ -27,7 +27,7 @@ Assinar no LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?en
 * [Conclusão](#conclusão)
 
 - # Descrição do Projeto
-  ### Projeto em desenvolvimento para a disciplina de github do curso de FuuStack da Digital College. O DCE é um site onde haverá informações sobre tecnologia entre outros temas.
+  ### Projeto em desenvolvimento para a disciplina de github do curso de FullStack da Digital College. O DCE é um site onde haverá informações sobre tecnologia entre outros temas.
   - ![expressoOUespresso](https://github.com/jmtannus/jmtannus.github.io/assets/61756665/875a92fa-77c1-45cf-ad81-fc4fab045fc8)
   
       **O espresso com "S" vem da raiz do verbo italiano, que quer dizer espremido, sob pressão. Logo faz sentido batizar o café feito com o pó compactado e submetido à alta pressão de café espresso. E como o café fica pronto em 20 segundos, 25 no máximo, é rápido, é expresso. Assim as duas formas estão corretas. Mas o que utilizo é uma brincadeira que podemos fazer com a lingua portuguesa, um trocadilho com o verbo expressar-se, que significa se manifestar através de palavras, comportamentos e/ou atitudes.**
